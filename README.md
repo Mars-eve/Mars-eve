@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anyanwuosi
 - 👀 I’m interested in developing cross-platform apps using dart and flutter.
 - 🌱 I’m currently learning dart. It's my first ever programmming language, I may be a little late to the party but I'm absolutely enjoying myself
-- 📫 How to reach me ... @anyanwuosi on the bird app.
+- 📫 How to reach me? Just search for @anyanwuosi on the bird app.
  
 
 <!---
